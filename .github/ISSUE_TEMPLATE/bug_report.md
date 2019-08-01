@@ -2,7 +2,7 @@
 name: new 111
 about: Create a report to help us improve
 title: '333'
-labels: 'valid'
+labels: 'invalid'
 assignees: 'lesliesli'
 
 ---
