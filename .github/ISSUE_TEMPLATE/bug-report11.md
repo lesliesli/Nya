@@ -1,7 +1,7 @@
 ---
 name: Bug report11
-about: Create a report to help us improve
-title: ''
+about: test1111
+title: 安全问题
 labels: enhancement, help wanted
 assignees: lesliesli
 
