@@ -1,24 +1,26 @@
 ---
-name: Bug report11122222
+name: new 111
 about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+title: '333'
+labels: '444'
+assignees: '555'
 
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+| 用例名称| 用例等级| 覆盖率|
+|-----|-----|-----|
+| | | |
 
 **To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+| 用例名称| 用例等级| 覆盖率|
+|-----|-----|-----|
+| | | |
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
+| 用例名称| 用例等级| 覆盖率|
+|-----|-----|-----|
+| | | |
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
