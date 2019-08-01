@@ -2,8 +2,8 @@
 name: new 111
 about: Create a report to help us improve
 title: '333'
-labels: '444'
-assignees: '555'
+labels: 'bug'
+assignees: 'lesliesli'
 
 ---
 
