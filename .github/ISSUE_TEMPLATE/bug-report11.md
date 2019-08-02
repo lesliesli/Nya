@@ -2,8 +2,9 @@
 name: Bug report11
 about: test1111
 title: 安全问题
-labels: enhancement, help wanted
+labels: bug, help wanted
 assignees: lesliesli
+weight: 8
 
 ---
 
