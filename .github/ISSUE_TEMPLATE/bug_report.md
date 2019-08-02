@@ -2,7 +2,7 @@
 name: 模板名称
 about: Create a report to help us improve
 title: issue 名称
-labels: invalid
+labels: aaaaa
 assignees: lesliesli
 
 ---
