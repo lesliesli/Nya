@@ -1,7 +1,7 @@
 ---
-name: leslie
+name: 模板名称
 about: Create a report to help us improve
-title: 88888
+title: issue 名称
 labels: invalid
 assignees: lesliesli
 
